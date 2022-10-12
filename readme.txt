@@ -1,0 +1,1 @@
+This is a program for asynchronous web page parsing. To speed up work from 40 seconds to 4 - Asyncio library is used here
